@@ -5,8 +5,15 @@
 }
 .header{
     height: 121px;
-    width: 100px;
+    width: 100%;
     background-color: #EAAD00;
 }
+.header .container{
+    width: 1150px;
+    height: 100%;
+    background-color: cadetblue;
+}
+
+
 
 
